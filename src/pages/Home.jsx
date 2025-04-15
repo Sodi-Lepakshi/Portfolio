@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { TypeAnimation } from "react-type-animation"; 
+import { TypeAnimation } from 'react-type-animation';
 import "../styles.css";
 
 const Home = () => {

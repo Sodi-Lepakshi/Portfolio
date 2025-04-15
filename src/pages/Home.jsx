@@ -26,7 +26,7 @@ const Home = () => {
       </motion.p>
       <div className="cta-buttons">
       <motion.a
-  href="/resume.pdf"
+  href="/SodiLepakshi_resume.pdf"
   download="Lepakshi_Sodi_Resume.pdf"
   className="resume-btn"
   target="_blank"
